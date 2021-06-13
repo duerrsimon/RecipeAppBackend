@@ -1,0 +1,19 @@
+{
+	"title": "Page Query Boss",
+	"keywords": ["processwire", "module", "json", "array", "page", "ajax", "graphql", "api", "simple"],
+	"name": "noelboss/page-query-boss",
+	"type": "pw-module",
+	"singular": true,
+	"autoload": true,
+	"summary": "A ProcessWire Module to build complex nested queries containing multipple fields and pages and return an array that can be parsed to JSON. This is usefull to fetch data for SPA and PWA.",
+	"homepage": "http://modules.processwire.com",
+	"license": "MIT",
+	"version": "0.0.6",
+	"icon": "rss",
+	"authors": [{
+		"name": "Noel Bossart",
+		"email": "me@noelboss.com",
+		"homepage": "https://www.noelboss.com",
+		"role": "Developer"
+	}]
+}

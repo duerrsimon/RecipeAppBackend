@@ -1,0 +1,135 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageList\/ProcessPageList.module",
+    "textdomain": "wire--modules--Process--ProcessPageList--ProcessPageList-module",
+    "translations": {
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "Modifier"
+        },
+        "4351cfebe4b61d8aa5efa1d020710005": {
+            "text": "Voir"
+        },
+        "03c2e7e41ffc181a4e84080b4710e81e": {
+            "text": "Cr\u00e9er nouvelle page"
+        },
+        "6bc362dbf494c61ea117fe3c71ca48a5": {
+            "text": "D\u00e9placer"
+        },
+        "ce2c8aed9c2fa0cfbed56cbda4d8bf07": {
+            "text": "Vider"
+        },
+        "f4ec5f57bd4d31b803312d873be40da9": {
+            "text": "Modifier"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Annuler"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "S\u00e9lectionner"
+        },
+        "46b816f573557a53c93ac78bbcfa9493": {
+            "text": "D\u00e9selectionner"
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "Plus"
+        },
+        "d95deddfb80310ff0d1d63013611777c": {
+            "text": "Glisser-d\u00e9poser pour d\u00e9placer"
+        },
+        "f413b7eb4ef50a382b0fe0cfe04fdc30": {
+            "text": "Corbeille ouverte : glissez les pages ci-dessous ici pour les supprimer"
+        },
+        "de306d89ec101aba6fb73c6879710e6c": {
+            "text": "404 Page introuvable"
+        },
+        "e3afed0047b08059d0fada10f400c1e5": {
+            "text": "Administration"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Corbeille"
+        },
+        "157fa6b945671169a76bc677977f368d": {
+            "text": "Nom du champ de page \u00e0 afficher"
+        },
+        "ae9945c00ae261445f0277fbae516179": {
+            "text": "Chaque page dans une PageList est identifi\u00e9e par une \u00e9tiquette, g\u00e9n\u00e9ralement le champs titre ou sous-titre. Vous pouvez sp\u00e9cifiez quel champs doit \u00eatre affich\u00e9 ici. Pour sp\u00e9cifier des champs multiples, s\u00e9parez chaque nom de champs par un espace. Si le champs est un objet (par exemple une autre page), sp\u00e9cifiez alors la propri\u00e9t\u00e9 avec un point, ex: autrepage.title. Notez que si le champs que vous sp\u00e9cifiez se trouve \u00e0 avoir une valeur vide, ProcessWire utilisera le champs \u00ab name \u00bb de la page."
+        },
+        "8593fb74b02478b2734e442f86507d7b": {
+            "text": "Vous avez la possibilit\u00e9 d'\u00e9craser ce param\u00e8tre pour chaque mod\u00e8le dans ses param\u00e8tres avanc\u00e9s."
+        },
+        "43da4fffe875f34908241df94ccb535b": {
+            "text": "Nombre de pages \u00e0 afficher avant la pagination"
+        },
+        "94d3f06b64640bda750ee1d7c7527fe4": {
+            "text": "Vitesse d'animation (en ms)"
+        },
+        "453420e78223c3c2ff7a28bfc3a44dde": {
+            "text": "La vitesse \u00e0 laquelle chaque branche de l'arborescence est anim\u00e9e. Un nombre plus bas r\u00e9sulte en une animation plus rapide mais moins visible. Pour d\u00e9sactiver les animations, d\u00e9clarez 0."
+        },
+        "5ca370c3b4f85b5c8308b75ea46984cb": {
+            "text": "Erreur r\u00e9seau, veuillez r\u00e9essayer plus tard"
+        },
+        "024dae797f407f0f2bd724f6301999a1": {
+            "text": "Erreur inconnue, veuillez r\u00e9essayer plus tard"
+        },
+        "bdfca484a650a86abab2578865834ac3": {
+            "text": "Chaque page dans une PageList est identifi\u00e9e par une \u00e9tiquette, g\u00e9n\u00e9ralement le champ titre ou sous-titre. Vous pouvez d\u00e9finir quel champ doit \u00eatre affich\u00e9 ici. Pour d\u00e9clarer des champs multiples, s\u00e9parez chaque nom de champ par un espace. Si le champ est un objet (par exemple une autre page), d\u00e9clarez alors la propri\u00e9t\u00e9 avec un point, ex: {autrepage.title}. Notez que si le champ que vous d\u00e9clar\u00e9 se trouve \u00e0 avoir une valeur vide, ProcessWire utilisera le champ \u00ab name \u00bb de la page."
+        },
+        "eceb8bf0921f19bb3ae6972e7902c887": {
+            "text": "La valeur par d\u00e9faut est %d."
+        },
+        "f0ebf50a114d563bc9bd51eb8df08f5a": {
+            "text": "Si laiss\u00e9 \u00e0 sa valeur par d\u00e9faut, ce param\u00e8tre peut aussi \u00eatre d\u00e9clar\u00e9 dans le tableau $config->pageList."
+        },
+        "7f46e875eed0badd2516b23657f4f320": {
+            "text": "Afficher les actions de page au survol ?"
+        },
+        "04f8c71ea1d550c45b3c987978fe56b3": {
+            "text": "Par d\u00e9faut, les actions de page apparaissent apr\u00e8s un clic (du moins, dans le th\u00e8me d'administration par d\u00e9faut). Pour les faire appara\u00eetre au survol, cochez cette boite."
+        },
+        "bcf77f341a0ec5189588bdad819c9ee7": {
+            "text": "Pour plus d'options, voyez le param\u00e8tre $config->pageList dans \/wire\/config.php. Vous pouvez copier ces param\u00e8tres sans \/site\/config.php et ainsi les \u00e9craser."
+        },
+        "8cd0d0c99b062b3d22e8c7188ba33ab2": {
+            "text": "Tout afficher"
+        },
+        "9f8ce5c6cbebc34795f4241c8932573a": {
+            "text": "="
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Ajouter une nouvelle page"
+        },
+        "e834b638a7a5df6f0de0c57b1d6ac901": {
+            "text": "Autoriser les \u00e9diteurs non-superuser \u00e0 utiliser la corbeille ?"
+        },
+        "6288d796be4065eb3b00cf1fe1f7b613": {
+            "text": "Si coch\u00e9, les utilisateurs pourront voir les pages dans la corbeille (seulement les pages auxquelles ils ont acc\u00e8s)."
+        },
+        "98ee3deee3a12fa7795a82801d19a020": {
+            "text": "Cela active aussi les actions \"Corbeille\" et \"Restaurer\", o\u00f9 le contr\u00f4le d'acc\u00e8s l'autorise."
+        },
+        "a8a530c941af87d6dc1d0d907cd4ee3f": {
+            "text": "Type de quantit\u00e9 d'enfants"
+        },
+        "f472347ec718962a0e4560a410768cf1": {
+            "text": "Dans la liste des pages, une quantit\u00e9 d'enfants est affich\u00e9e \u00e0 c\u00f4t\u00e9 de chaque page d\u00e8s que possible. Quel type de quantit\u00e9 afficher ?"
+        },
+        "8c06d8c7bf685599eb5de83ad4d79d08": {
+            "text": "Pour l'affichage des descendants, la quantit\u00e9 inclut tous les descendants, qu'ils soient visibles pour l'utilisateur ou non."
+        },
+        "1cf8145a75b3d3d0f52759b1808c9cac": {
+            "text": "Enfants imm\u00e9diats (par d\u00e9faut)"
+        },
+        "f9e98f3e587cf5da4ddb460f0aa52437": {
+            "text": "Descendants : enfants, petits-enfants, arri\u00e8re-petits-enfants, etc\u2026"
+        },
+        "3f842a2d7d72a4f7fb3e400a5b569f0b": {
+            "text": "Les deux : enfants\/descendants"
+        },
+        "d86d2e0723883a6f48c9c0c05d3584b6": {
+            "text": "Les deux : descendants\/enfants"
+        },
+        "69ff054adc667458622b780aabe13d60": {
+            "text": "Afficher l'ID de la page \u00e0 la place"
+        }
+    }
+}

@@ -1,0 +1,390 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageEdit\/ProcessPageEdit.module",
+    "textdomain": "wire--modules--process--processpageedit--processpageedit-module",
+    "translations": {
+        "df74a326081d841aef061c999c7979f3": {
+            "text": "Modification : %s"
+        },
+        "c0df350b3d4fe22546834d74cdc77023": {
+            "text": "Page publi\u00e9e : %s"
+        },
+        "9ce0bc0d85071636f750e39ea86f86c0": {
+            "text": "Page enregistr\u00e9e : %s"
+        },
+        "f15c1cae7882448b3fb0404682e17e61": {
+            "text": "Contenu"
+        },
+        "a1c508c8dcf832bde214942a479c63e5": {
+            "text": "Cette page est dans la corbeille"
+        },
+        "2cb4bb1ee54691377c8778a8823eb4dd": {
+            "text": "Cette page n'est actuellement pas publi\u00e9e"
+        },
+        "404dd23de1c6c7edc7927e5262b93a1b": {
+            "text": "Enregistrer et laisser non publi\u00e9"
+        },
+        "110a4b01beabd53b661a47d4b44bd7a8": {
+            "text": "Publier"
+        },
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Enregistrer"
+        },
+        "64e4aca4297806247f62a7b5f8cbd3df": {
+            "text": "Enfants"
+        },
+        "9b30437c5e1e966fa90525c93356fd3f": {
+            "text": "Enfants \/ Sous-pages"
+        },
+        "b5c4bc5ddd4b490f3e2bf5abc0945f1d": {
+            "text": "Il n'y a actuellement pas d'enfant \/ sous-page en dessous de cette page."
+        },
+        "a13cc55582da47cab1f7cc7518700c6e": {
+            "text": "Ajouter une nouvelle page ici"
+        },
+        "7e92f49c92e3f91ed88f03063fc34748": {
+            "text": "Param\u00e8tres de tri"
+        },
+        "591acadb8502cd6db313b718df45a6f4": {
+            "text": "Champs natifs"
+        },
+        "833956a760d996ae61ea8b385e9fb6f0": {
+            "text": "Champs personnalis\u00e9s"
+        },
+        "d49042595c2674084c92d561b714d522": {
+            "text": "Inverser l'ordre de tri ?"
+        },
+        "f4f70727dc34561dfde1a3c529b6205c": {
+            "text": "Param\u00e8tres"
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Mod\u00e8le"
+        },
+        "4059b0251f66a18cb56f544728796875": {
+            "text": "Informations"
+        },
+        "cacab211629daeffac10e13574e49d9e": {
+            "text": "Cach\u00e9e : exclue des listes et des recherches"
+        },
+        "ab4b835121255016ef73bea7f4ea45a7": {
+            "text": "Verrouill\u00e9e : non modifiable"
+        },
+        "0fdd10ee950975e58b122abb2de3a49b": {
+            "text": "Non publi\u00e9e : non visible sur le site"
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "\u00c9tat"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Supprimer"
+        },
+        "aa47bb0913144619a0a9abc59d59d6ed": {
+            "text": "Supprimer de fa\u00e7on permanente"
+        },
+        "7a289ea949902e8fa53efb4b3b4ccea0": {
+            "text": "D\u00e9placer dans la corbeille"
+        },
+        "62a92c8e1a013dc0c9a67f2769642e9f": {
+            "text": "Cochez la case pour confirmer que vous voulez faire ceci."
+        },
+        "6e2e3de95055596f315a073f771342e3": {
+            "text": "Cette page ne \u200b\u200bpeut pas \u00eatre supprim\u00e9e \u00e0 ce moment"
+        },
+        "4351cfebe4b61d8aa5efa1d020710005": {
+            "text": "Voir"
+        },
+        "d2387a51d9f67d60dfc2cbb23bd04af2": {
+            "text": "Qui peut acc\u00e9der \u00e0 cette page ?"
+        },
+        "bbbabdbe1b262f75d99d62880b953be1": {
+            "text": "R\u00f4le"
+        },
+        "13944cf77acdf1b9e49f6383c101ae89": {
+            "text": "(tout le monde)"
+        },
+        "eec429d33814974270e5ab8a04a3d23e": {
+            "text": "L'acc\u00e8s est d\u00e9fini par le mod\u00e8le de cette page : %s"
+        },
+        "890e4f4dd63b6c580cbf534f25914565": {
+            "text": "L'acc\u00e8s est h\u00e9rit\u00e9 de la page \u00ab %1$s \u00bb et est d\u00e9fini par le mod\u00e8le : %2$s"
+        },
+        "17f8097b4af11ef352554fc7dd416c34": {
+            "text": "Le mod\u00e8le \u00ab %s \u00bb n'est pas autoris\u00e9"
+        },
+        "c4101b17a6f3bb8ffbe40eb9edef2347": {
+            "text": "Cette page n'est pas supprimable"
+        },
+        "827884bd1b673b7e58def7d09bf59b8b": {
+            "text": "Page supprim\u00e9e : %s"
+        },
+        "a419fb9d9fe259c36eb1e4a99462bd1f": {
+            "text": "Page mise dans la corbeille : %s"
+        },
+        "6c86eb040dbb20b1c6e1e891774b27ac": {
+            "text": "Impossible de d\u00e9placer cette page dans la corbeille"
+        },
+        "11daf8e4f72e87c440ed3e0cac443157": {
+            "text": "Confirmer le changement de mod\u00e8le"
+        },
+        "8f1db4fbdd736bfc472e99f61be9e56f": {
+            "text": "Changer le mod\u00e8le de \u00ab %1$s \u00bb vers \u00ab %2$s \u00bb"
+        },
+        "48af63aeec834982fcf91e325aaea998": {
+            "text": "Attention, changer de mod\u00e8le supprimera les champs suivants :"
+        },
+        "729a51874fe901b092899e9e8b31c97a": {
+            "text": "\u00cates-vous certain ?"
+        },
+        "e4c2fcbaac781d00fe1e192a4d94c0e9": {
+            "text": "Veuillez confirmer que vous comprenez ce qui pr\u00e9c\u00e8de en cochant sur la case ci-dessous."
+        },
+        "6b102e11bd33fb8f4be6a6cecf2c491b": {
+            "text": "Vous n'avez pas la permission de modifier le mod\u00e8le sur cette page."
+        },
+        "854de5f33bda667c67117b0aaee5a9cf": {
+            "text": "Ce mod\u00e8le n'est pas autoris\u00e9"
+        },
+        "d4ad7f8661990f191def1fb3a6accbd9": {
+            "text": "Le mod\u00e8le a \u00e9t\u00e9 chang\u00e9 vers \u00ab %s \u00bb"
+        },
+        "ea1a60a080fc428d2c18d9e6d33ded08": {
+            "text": "Si vous voulez que tous les enfants actuels et futurs soit tri\u00e9s automatiquement par un champ sp\u00e9cifique, s\u00e9lectionnez ce champ ci-dessous et \u00e9ventuellement cochez la case 'Inverser l'ordre de tri' pour un tri d\u00e9croissant. Laissez vierge le champ de tri si vous voulez pouvoir glisser-d\u00e9poser les champs dans l'ordre de votre convenance."
+        },
+        "7ba9fe21b073af37b16f989e23112967": {
+            "text": "Page inconnue"
+        },
+        "b8e75fd085c6615286cee6fdc4e880ec": {
+            "text": "Cette page est verrouill\u00e9e pour les modifications"
+        },
+        "386397f000925f7d90c87a913a678eed": {
+            "text": "Vous n'avez pas acc\u00e8s \u00e0 la modification"
+        },
+        "36c2b914f293a142343cba0f3157d748": {
+            "text": "Ce qu'ils peuvent faire"
+        },
+        "567d412904b379e49382b6e3b90881ca": {
+            "text": "Cr\u00e9e par %1$s le %2$s"
+        },
+        "1dec6a532601f755520b9567091e1bf8": {
+            "text": "Derni\u00e8re modification par %1$s le %2$s"
+        },
+        "421318b075c43ddcd5426197f778c43c": {
+            "text": "Ne peut pas \u00eatre publi\u00e9 avant que les erreurs soient corrig\u00e9es"
+        },
+        "fcdd8c7fe4647ee6186ea45dd69d425d": {
+            "text": "Les enfants sont tri\u00e9s par \u00ab %s \u00bb, selon la configuration du mod\u00e8le."
+        },
+        "1ad359c38781f8fc924a380559d60c42": {
+            "text": "Cr\u00e9e par l'utilisateur"
+        },
+        "7ddc881b8c4b63699dd8487273384a38": {
+            "text": "Les enfants sont tri\u00e9s par"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Aucun"
+        },
+        "20a90cbb1d0984f5ecf4fe0cf01fe47e": {
+            "text": "Glisser-d\u00e9poser manuel"
+        },
+        "265dabf958cffe4bf96d445dcddf8678": {
+            "text": "%d changement"
+        },
+        "4e5878c0e4b4e901ee96c19e7fd05914": {
+            "text": "%d changements"
+        },
+        "7b9bb8a9e6b0d2b64837e652485e11c9": {
+            "text": "\u00c9diter la page : %s"
+        },
+        "30b78fb546fe9686f84a740a5e5524a3": {
+            "text": "URL de la page chang\u00e9e pour \u00ab %s \u00bb puisque le nom demand\u00e9 \u00e9tait d\u00e9j\u00e0 pris."
+        },
+        "70d9be9b139893aa6c69b5e77e614311": {
+            "text": "Confirmer"
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "="
+        },
+        "0b7b79dc6ffa228f9e59cecc61c4efb6": {
+            "text": "Publi\u00e9e le %s"
+        },
+        "e76ea9d62d4a434a98238f3ec7932075": {
+            "text": "toutes"
+        },
+        "16e56a7f64aa21e73cf55bd8a6334cf8": {
+            "text": "%s + Sortir"
+        },
+        "1040873c1bf94b1995201c648a15989d": {
+            "text": "%s + Voir"
+        },
+        "407911b74ab384304ea0190675a00894": {
+            "text": "%s + Ajouter une nouvelle"
+        },
+        "cc231fc91e42d1e391bbce1fc541959f": {
+            "text": "%s + Suivante"
+        },
+        "109f29a4bda4c9b4a00ffd5452fe9515": {
+            "text": "\u00cates-vous certain ? Un upload est en cours et pourrait \u00eatre perdu si vous poursuivez."
+        },
+        "4c2915288e6804dd4b1adf9819439b19": {
+            "text": "Il n'y a pas de page suivante \u00e9ditable \u00e0 \u00e9diter."
+        },
+        "e1ccd342c70dde8fd239432c69aa55e0": {
+            "text": "Valeur pr\u00e9c\u00e9dente restor\u00e9e"
+        },
+        "f3e0ef028ad1fda84b2b567684c67846": {
+            "text": "La page n'a pas \u00e9t\u00e9 publi\u00e9 car le champ \"%s\" est requis"
+        },
+        "90a2c610d9bb43ef59bc60c944c7633f": {
+            "text": "Vue par d\u00e9faut de l'action"
+        },
+        "d6b9987fabd38f232ada46d046aa4f88": {
+            "text": "Le type d'action par d\u00e9faut utilis\u00e9 quand l'onglet \"voir\" est s\u00e9lectionn\u00e9 dans l'\u00e9diteur de page."
+        },
+        "25ed18e06e982b711a80310caf119563": {
+            "text": "Voir la page"
+        },
+        "43aaebd9ba4408c30e8e5164b4860ae6": {
+            "text": "Panneau"
+        },
+        "c772431f8a16790370305c86f948c6f5": {
+            "text": "Fen\u00eatre modale"
+        },
+        "c97f398820bf360b28776372f47a115a": {
+            "text": "Nouvel onglet \/ Nouvelle fen\u00eatre"
+        },
+        "7e7b8eaf9921d2a698937d925748e85b": {
+            "text": "Sortir + Voir"
+        },
+        "62e59f3c47304f4fad142afb1cee6a50": {
+            "text": "Quelles pages pointent vers celle-ci ?"
+        },
+        "b9c25fdc76ccaff0426b33dc56852e77": {
+            "text": "Pas listable"
+        },
+        "d996fb607618d463ab9157739e105919": {
+            "text": "%d autre(s) page(s) trouv\u00e9e(s) pointant vers celle-ci dans des champs Page ou des liens href."
+        },
+        "bd3cc7d2c61580ec64f4225eae3a330e": {
+            "text": "(dans un champ page)"
+        },
+        "ccab4e644acf8e1bc8a9bef59f811803": {
+            "text": "(dans un lien href)"
+        },
+        "ea31b3f98bd7b1a8e71fad1f47ab4bae": {
+            "text": "%d pages suppl\u00e9mentaires non montr\u00e9es."
+        },
+        "3b3ad8a776bd0a0e7498a58c538a95b9": {
+            "text": "Aucune autre page pointant vers celle-ci n'a \u00e9t\u00e9 trouv\u00e9e dans des champs Page ou des liens href."
+        },
+        "2bd339d85ee3b33e513359ce781b60cc": {
+            "text": "Restaurer"
+        },
+        "0f9445b68a3d6fffc41f65efa9711f6e": {
+            "text": "Sortir de la corbeille et restaurer \u00e0 son emplacement d'origine"
+        },
+        "514327d866bf40803bfdf3a678af92ba": {
+            "text": "Cocher cette case pour confirmer que vous souhaitez restaurer cette page."
+        },
+        "dc49e815691b27fd40c0b9c72066b25d": {
+            "text": "Cette page sera restaur\u00e9 dans le parent : **%s**"
+        },
+        "91ce4ed84b455bf383570b705a732cd6": {
+            "text": "La page ne peut pas \u00eatre restaur\u00e9e alors qu'il y a des erreurs pr\u00e9sentes"
+        },
+        "e4da3fa39ff5ce0fd581bc97389b5cdf": {
+            "text": "Page restaur\u00e9e : %s"
+        },
+        "e8691f66b2ae08756dac17d0e3b91eb2": {
+            "text": "Erreur lors de la restauration de la page"
+        },
+        "d8514ace7bcb47e0d419377402b13142": {
+            "text": "La page sera restaur\u00e9e en : **%s**."
+        },
+        "e6c6e3f3e972de9c735faefa037529ab": {
+            "text": "Le nom d'origine sera retouch\u00e9 de **%1$s** en **%2$s** pour \u00eatre unique."
+        },
+        "e4d5ce77afa1ac8b139234c7e641d5cd": {
+            "text": "Quelles pages pointent vers celle-ci ?"
+        },
+        "60c6e03c99253b3bca28a08aa5102fdc": {
+            "text": "Il y a %d autre(s) page(s) pointant vers celle-ci dans des champs de page ou des liens href."
+        },
+        "3efee15199d0046c4a68bd6c96c66800": {
+            "text": "Quelles autres URL redirigent vers cette page ?"
+        },
+        "c665039391ab01a70f17f05adcc566df": {
+            "text": "D\u00e8s qu'une page est d\u00e9plac\u00e9e ou que son nom est chang\u00e9, l'emplacement pr\u00e9c\u00e9dent est retenu pour les redirections."
+        },
+        "d9a0149000506e68eb258bab1ef93e2f": {
+            "text": "La liste ci-dessous liste les URL (chemins) qui redirigent automatiquement vers cette page (par une redirection permanente 301)."
+        },
+        "bc84a6916935bff7a425f45f894a18a6": {
+            "text": "Vous pouvez supprimer tous les chemins\/URLs ou en ajouter manuellement de nouveaux."
+        },
+        "1324a129fbb956748409f981833c0736": {
+            "text": "Pas de chemins de redirection"
+        },
+        "9d76aca60838d896fb7754d4a890eb9d": {
+            "text": "Pas encore"
+        },
+        "593d4b34403b76f5c134df5b3c033420": {
+            "text": "Suppression de la redirection pour l'URL pr\u00e9c\u00e9dente : %s"
+        },
+        "ca2593b9cdd313f5fc57d68fb0e94470": {
+            "text": "Ajouter de nouvelles URL de redirection"
+        },
+        "71fc4eb5d7649ced69d2936060e7774c": {
+            "text": "Entrez les chemins\/URL suppl\u00e9mentaires (un par ligne) qui doivent rediriger vers cette page."
+        },
+        "1715e12396d2512d6a079d39809bd855": {
+            "text": "Entrez seulement le chemin URL (par exemple \"\/hello\/world\/\"), n'incluez PAS le sch\u00e9ma, le domaine, le port, la cha\u00eene de requ\u00eate ou les fragments."
+        },
+        "05977549ad6511429ee4d274f710771d": {
+            "text": "Les chemins sont relatifs \u00e0 la racine du site donc n'incluez PAS le sous-r\u00e9pertoire %s au d\u00e9but."
+        },
+        "b74adc728406a06b4e47a2bcfd534281": {
+            "text": "Pour d\u00e9finir une langue pour la redirection, entrez le chemin\/URL en ligne pr\u00e9fix\u00e9 par le nom de la langue :"
+        },
+        "beb808c0ab58b957ea0350e633392cee": {
+            "text": "\/votre\/%s\/url\/"
+        },
+        "ab2435deb08297062617b30c57c0ef9e": {
+            "text": "(pour %s)"
+        },
+        "e638e85311e9a6c568c715cb46e7ac01": {
+            "text": "Redirection ajout\u00e9 : %s"
+        },
+        "4ece098a04808389cd88f5e62f8a6fa0": {
+            "text": "Impossible d'ajouter une redirection %s car cela semble \u00eatre en conflit avec un autre chemin."
+        },
+        "ea1056a7e305406e5662eb74ed8eb9f1": {
+            "text": "+"
+        },
+        "c28806887f7038aa8c83cef389bfcec6": {
+            "text": "="
+        },
+        "a413997b3fa1374648ebd250435071c5": {
+            "text": "Quand"
+        },
+        "5ee35a979708ef27ee71dcc13f862da0": {
+            "text": "Langue"
+        },
+        "1443a205d4656be20da9f81a5b7a5da9": {
+            "text": "Courant"
+        },
+        "2623934b184a9c5b44a0c9992499b5f6": {
+            "text": "="
+        },
+        "19959897b0f9d04ebbea294594c10f5d": {
+            "text": "Cette page a un ou plusieurs champs non compl\u00e9t\u00e9s (essayez d'enregistrer ou de publier pour plus d'informations)"
+        },
+        "0bcdea7c9e6f5289b7cf4c51e001a8fa": {
+            "text": "Unique : n\u00e9cessite que le nom de la page \"%s\" soit unique au niveau global"
+        },
+        "9d4409be42bd401755ef515b91df93bc": {
+            "text": "(dans la langue par d\u00e9faut seulement)"
+        },
+        "c71458ba699635fcdbc6a15dd2b81c4c": {
+            "text": "Le statut signal\u00e9 a \u00e9t\u00e9 retir\u00e9 car l'enregistrement s'est fait sans erreur"
+        }
+    }
+}

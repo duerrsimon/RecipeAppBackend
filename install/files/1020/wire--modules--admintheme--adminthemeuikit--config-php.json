@@ -1,0 +1,315 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeUikit\/config.php",
+    "textdomain": "wire--modules--admintheme--adminthemeuikit--config-php",
+    "translations": {
+        "ed9bcb3b4e6221f67a2543f66109248a": {
+            "text": "Si laiss\u00e9 vide, le fichier par d\u00e9faut est utilis\u00e9."
+        },
+        "a825c84dec047bf77ef218348c6496ed": {
+            "text": "Entrez un chemin relatif \u00e0 l'URL de la page d'accueil."
+        },
+        "de71102a6c8bba23cf43b10e6dc86adc": {
+            "text": "(RECOMMAND\u00c9)"
+        },
+        "ff498dcc16878847ee1d01c38a0138f3": {
+            "text": "(EXP\u00c9RIMENTAL)"
+        },
+        "6f8d1b93e4aad53511c85e29ed36b3d0": {
+            "text": "(par d\u00e9faut)"
+        },
+        "1a79a4d60de6718e8e5b326e338ae533": {
+            "text": "Exemple"
+        },
+        "5580ceafc3f05d1b31e318f00e2d187c": {
+            "text": "Avatar de l'utilisateur"
+        },
+        "f9a6b1bbc44e674712c33ec4363ca698": {
+            "text": "Gravatar (service externe qui d\u00e9termine l'avatar \u00e0 partir de l'email)"
+        },
+        "33821a7c07464e5442de3b0aa1836854": {
+            "text": "S\u00e9lectionnez un champ image, un Gravatar, ou une ic\u00f4ne pour l'avatar de l'utilisateur dans la barre d'outils."
+        },
+        "52d59ff487072b976a4e83f890f18c4e": {
+            "text": "Champ image : %s"
+        },
+        "8b5c3dc5e49d1be8ee1648a5bc454559": {
+            "text": "Il n'y a pas pour l'instant de champ image pr\u00e9sents sur le mod\u00e8le de l'utilisateur, c'est pourquoi seulement des ic\u00f4nes et Gravatar sont montr\u00e9s."
+        },
+        "08c95f3605e4e76b340174ba21b8462d": {
+            "text": "[Ici](%s) , vous pouvez ajouter des champs image au mod\u00e8le de l'utilisateur"
+        },
+        "2ff62c17135d9704b59a98881cffa793": {
+            "text": "Ic\u00f4ne : %s"
+        },
+        "bb96132ad3ed6087cc9a11da0539a499": {
+            "text": "Format de l'\u00e9tiquette utilisateur"
+        },
+        "ef36780437bb9746cb9e4a684be3d0ae": {
+            "text": "Cette \u00e9tiquette appara\u00eet \u00e0 c\u00f4t\u00e9 de l'image \/ l'ic\u00f4ne de l'utilisateur."
+        },
+        "33f5c52210024a7906c33c262435d813": {
+            "text": "D\u00e9finissez les champ(s) et le format \u00e0 utiliser pour l'\u00e9tiquette utilisateur, ou laissez vide pour ne pas utiliser d'\u00e9tiquette."
+        },
+        "9ac50f55fe0eb306162cdde72aee40db": {
+            "text": "Utilisez n'importe quels champs \/ propri\u00e9t\u00e9s de votre mod\u00e8le [utilisateur](%s) entour\u00e9s d'{accolades}."
+        },
+        "e4e4bda20c3f3d73a0ab8a162324a5ef": {
+            "text": "Utilisez {Name} pour un nom avec une capitale (param\u00e8tre par d\u00e9faut), ou {name} pour un nom en bas de casse."
+        },
+        "94badcf29c95c51eb93549c399c1c91d": {
+            "text": "Exemples : \"{name}\", \"{Name}\", \"{title}\", \"{first_name} {last_name}\", \"{company.title}\", etc."
+        },
+        "96f31592de4b37ce5ff61db935fbfa81": {
+            "text": "Racine de l'interface administrateur"
+        },
+        "2fcf0b21fb2e5b0c2ed8774ca91bd3a0": {
+            "text": "Ouvrir un barre de navigation lat\u00e9rale"
+        },
+        "ebd9bec4d70abc789d439c1f136b0538": {
+            "text": "Disposition"
+        },
+        "21924d98c4f369c97991af1760e5fc64": {
+            "text": "Classique avec la barre d'outils de navigatin"
+        },
+        "77c0933cca4f9492cb03f4a2d091901e": {
+            "text": "Arborescence dans un panneau lat\u00e9ral"
+        },
+        "3c8286b98b6dfd2248df2a3d70cb8fc4": {
+            "text": "(gauche)"
+        },
+        "45c75f330de92569cb24cebab40a20fc": {
+            "text": "(droite)"
+        },
+        "cdf0447c0bfca1430af1916d3695665e": {
+            "text": "Panneau lat\u00e9ral de navigation (gauche) + arborescence (droite)"
+        },
+        "cd49cb29b2424eb2cfa6526153e12f3f": {
+            "text": "* les agencements avec des panneaux lat\u00e9raux ne sont pas compatibles avec le syst\u00e8me de notifications et peut causer des probl\u00e8mes avec d'autres modules."
+        },
+        "029ec5ac76207f4e7627a0e3ffbdb15b": {
+            "text": "Largeur maximale"
+        },
+        "c0a71759159badff6c9c45f730402dd6": {
+            "text": "D\u00e9finir la largeur maximale (en pixels) ou 0 pour aucun maximum."
+        },
+        "37243206806c555c2dbce190b1f49f37": {
+            "text": "Style des notifications"
+        },
+        "dff1a43f94a6ab1d04bef81420510e6c": {
+            "text": "Ne s'applique pas si le module SystemNotifications est install\u00e9."
+        },
+        "afae44a9309db56726837157afdd1a2a": {
+            "text": "Group\u00e9 par type avec un contr\u00f4le d'ouverture \/ fermeture"
+        },
+        "9d2e228039bb6eef2e6cbaff5c904b56": {
+            "text": "Toujours tout montrer"
+        },
+        "81e3da80ad979591250cca7feb39720b": {
+            "text": "Fichiers personnalis\u00e9s"
+        },
+        "6059a6e9b311f4cb4afd60c154f0bef5": {
+            "text": "Fichier CSS principal"
+        },
+        "fd57cabd74aeddd5a95d662e680dd5ef": {
+            "text": "Ce changement n'est pas recommand\u00e9 \u00e0 moins que vous ne soyez un d\u00e9veloppeur de th\u00e8me admin."
+        },
+        "990a068cf660ce4eaf87777c43d07057": {
+            "text": "Fichier logo"
+        },
+        "35c45261e46b5a1400aef3ecbf237879": {
+            "text": "Le fichier doit \u00eatre un PNG, GIF, JPG ou un SVG, avoir un arri\u00e8re plan transparent et mesurer au moins 100px dans les deux dimensions."
+        },
+        "6c6a6ca96d96fc13c06abbf98f38668f": {
+            "text": "Param\u00e8tres de visibilit\u00e9 des champs"
+        },
+        "21909eb7e7cbb04d9c804458848a7af3": {
+            "text": "Ces param\u00e8tres affectent tous les champs dans l'interface administrateur."
+        },
+        "f695996235a3c704a6780cf5515b6fdb": {
+            "text": "Chacun de ces param\u00e8tres (et d'autres) peut aussi \u00eatre ajout\u00e9 individuellement pour un champ donn\u00e9."
+        },
+        "0b28aca953c7100643fcacab33dbf502": {
+            "text": "Si vous d\u00e9finissez un param\u00e8tre ici, il \u00e9crasera les param\u00e8tre individuels du champ."
+        },
+        "15367a85a0239326ebf3b0294edd61ce": {
+            "text": "Voiir : Configuration > Champs > [un champ] > Champ (onglet) > Param\u00e8tres de th\u00e8me admin."
+        },
+        "6dcf297b0d223e7a27081a7c4bd6497f": {
+            "text": "Types de champ qui ne doivent pas avoir de contour"
+        },
+        "141c494a39b11098554fc3d327578895": {
+            "text": "Ce param\u00e8tre s'applique aux types s\u00e9lectionn\u00e9s quand ils sont utilis\u00e9s \u00e0 100% de largeur."
+        },
+        "99be59c66e12e86aefeced8b65c1effc": {
+            "text": "Types de champ qui doivent utiliser le style \"Ombre port\u00e9e\""
+        },
+        "949bcbdc5822582126d426c6f82f4fa4": {
+            "text": "Ce champ est un exemple du style \"Ombre port\u00e9e\"."
+        },
+        "cf83a7d29c286d14e29a97334e9279a5": {
+            "text": "Ne s'applique pas aux types s\u00e9lectionn\u00e9s qui n'ont pas de contour."
+        },
+        "391889c9ed085249fe76c0beb25ad304": {
+            "text": "Types de champ qui doivent \u00eatre compos\u00e9s avec des marges suppl\u00e9mentaires en haut et en bas."
+        },
+        "0d638e3ac46bc8f0cf58d60281ff4ebc": {
+            "text": "Pour exemple, les champs dans ce groupe de champ utilisent cette option."
+        },
+        "627a242af272f5913c8af08cff4cadf9": {
+            "text": "Composer verticalement TOUS les types de champ ?"
+        },
+        "0222ce0d1bbe27a8e1cd12c3c7f4814c": {
+            "text": "Si coch\u00e9, un marge verticale est ajout\u00e9e \u00e0 tous les champs."
+        },
+        "1939d9deea3a9b379eca5948b1b3cfc6": {
+            "text": "Cela peut ajouter de la clart\u00e9 dans certains cas, mais utilise beaucoup d'espace vertical."
+        },
+        "38cb04b53f3f1cf755ff1bbd9cc88cd1": {
+            "text": "Barre d'outils + navigation"
+        },
+        "9bc773c48947ebcedc8c2e0a4cfe8f8f": {
+            "text": "Action du click sur le logo de la barre d'outils"
+        },
+        "fd248b03e2d006b305f4a7896defe9cc": {
+            "text": "Disposition + interface"
+        },
+        "d4d0ee9985bf14169e809b164524b0b0": {
+            "text": "Type d'interface"
+        },
+        "ed81bfff2c494916fd8a4f7f0526e14c": {
+            "text": "Largeurs des colonnes des champs"
+        },
+        "9b6545e4cea9b4ad4979d41bb9170e2b": {
+            "text": "+"
+        },
+        "2660064e68655415da2628c2ae2f7592": {
+            "text": "Petit"
+        },
+        "831dfeb03973957261415d12c1509f11": {
+            "text": "Medium"
+        },
+        "3a69b34ce86dacb205936a8094f6c743": {
+            "text": "Grand"
+        },
+        "06b9281e396db002010bde1de57262eb": {
+            "text": "Automatique"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Aucun"
+        },
+        "b2dd4aca1dc11bb2c4efcbd9ab347789": {
+            "text": "Param\u00e8tres du th\u00e8me admin"
+        },
+        "838ee308c6474d98feac3ebbff4c08a8": {
+            "text": "Ces param\u00e8tres affectent la mani\u00e8re dont le champ appara\u00eet lorsqu'il est utilis\u00e9 par le th\u00e8me admin Uikit."
+        },
+        "2a94ec4e40704b025161d175bc18fe53": {
+            "text": "En choisissant l'option \"Automatique\", les param\u00e8tres seront d\u00e9termin\u00e9s lors de l'ex\u00e9cution."
+        },
+        "54e4e4fb8f8494b61dc7407161cff620": {
+            "text": "Le param\u00e8tre \"Marge\" s'applique seulement pour les champs de largeur 100%."
+        },
+        "87f8a6ab85c9ced3702b4ea641ad4bb5": {
+            "text": "="
+        },
+        "98369609669478919c74c916440e9978": {
+            "text": "Marge"
+        },
+        "070554647306343cbea29ebfdd278ba8": {
+            "text": "Bordure"
+        },
+        "cb5feb1b7314637725a2e73bdc9f7295": {
+            "text": "Couleur"
+        },
+        "0a52730597fb4ffa01fc117d9e71e3a9": {
+            "text": "+"
+        },
+        "c0bfe90a485c1e5db5e8fd63193fe65f": {
+            "text": "Ce champ montre seulement les param\u00e8tres que vous avez s\u00e9lectionn\u00e9s ci-dessus."
+        },
+        "7ce481195c78d64795db8cf62a6df04d": {
+            "text": "Contour"
+        },
+        "0afa7ae71fac97af574e05f44f2296c5": {
+            "text": "Ombre port\u00e9e"
+        },
+        "8101df5a8d382ef957a02876d08a6f0f": {
+            "text": "="
+        },
+        "eed661e12b91dcdc202ea5682df87a83": {
+            "text": "Primaire"
+        },
+        "702f41f09f0670ea93e1bb7121a835eb": {
+            "text": "Secondaire"
+        },
+        "d819318a32ee146ed8fec4feb03aab02": {
+            "text": "Surlignement"
+        },
+        "42d6b04b169e71af86e5bff6ca177f11": {
+            "text": "Alerte"
+        },
+        "5a9e33ceafdb38535a8dcee28ff0cd68": {
+            "text": "="
+        },
+        "39e84864692943ca0ba0c69e5039ed9a": {
+            "text": "Choisissez l'option B si vous avez des probl\u00e8mes avec les largeurs de colonnes souhait\u00e9es."
+        },
+        "775d588dfe892290c0bfa5e56590577f": {
+            "text": "Classes de largeur Uikit (jusqu'\u00e0 6 colonnes)"
+        },
+        "3ae2bf644696505c219965a72b7cbb70": {
+            "text": "Largeurs en pourcentage (flexibilit\u00e9 suppl\u00e9mentaire)"
+        },
+        "d4b002181224e7985e75a3913eb4ac2d": {
+            "text": "S'applique uniquement sur l'interface classique."
+        },
+        "683b41edb2bd91ba816cdbe8b67abed4": {
+            "text": "Formulaires + input"
+        },
+        "16b7c3d9f12cdd91bac81d618a62f357": {
+            "text": "Exemples de taille d'input"
+        },
+        "8863450d1e8ee628cf02531395c1fb14": {
+            "text": "S\u00e9lectionner des tailles exemples"
+        },
+        "cb4144ba5a55530ecbf14a45c4d0349d": {
+            "text": "Taille d'input par d\u00e9faut"
+        },
+        "190d86032ba8b2f2522f36d983700c72": {
+            "text": "Ceci affecte l'apparence de beaucoup de text, textarea et s\u00e9lectionne des champs."
+        },
+        "3be905d0e0e23fa3e645f3d70e7d28d3": {
+            "text": "Pas tous les champs d'entr\u00e9e ne supportent les options \"petit\" et \"grand."
+        },
+        "dcf96c65e2763ec9e77c895af9d25cbe": {
+            "text": "Les types de champs d'entr\u00e9e qui doivent \u00eatre compos\u00e9s avec des marges haut\/bas suppl\u00e9mentaires."
+        },
+        "741b3715dff40fc66d023ffe7d2ec932": {
+            "text": "L'option \"Automatique\" est recommand\u00e9 par d\u00e9faut pour tous les param\u00e8tres."
+        },
+        "4c7c5ab57475a86d54c99e99e8cbb5e7": {
+            "text": "Tr\u00e8s petit"
+        },
+        "5b176800a4fa5f818733bbc47bf50c58": {
+            "text": "Taille du champ d'entr\u00e9e"
+        },
+        "81508f718ba3c39f2614a6384da3d565": {
+            "text": "Largeur du champ d'entr\u00e9e"
+        },
+        "db3e3f51c9107e26c9bccf9a188ce2ed": {
+            "text": "Remplir"
+        },
+        "2bd5addcf7653a473e310fc64bcbac60": {
+            "text": "Minimiser le style des contr\u00f4les du formulaire"
+        },
+        "127278ab533d9fcec53fa6c0947df913": {
+            "text": "Un autre champ"
+        },
+        "661262f88b0f998e147baacf8778d340": {
+            "text": "Ouvrir le champ \"%s\" ci-dessous pour un exemple de la largeur de colonne."
+        },
+        "5d6497b7aaafbba82795cd9626c2f508": {
+            "text": "Choisisse l'option B si vous avez des difficult\u00e9s pour atteindre les largeurs de colonnes pr\u00e9vues dans l'Inputfield."
+        }
+    }
+}

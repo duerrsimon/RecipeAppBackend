@@ -1,0 +1,78 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldSelect.module",
+    "textdomain": "wire--modules--inputfield--inputfieldselect-module",
+    "translations": {
+        "6b66a61fa66288a9a7ad6474d2e686ec": {
+            "text": "Valeur par d\u00e9faut"
+        },
+        "c37baf4e64db68f6887058399a37ad60": {
+            "text": "Pour avoir un ou plusieurs valeurs pr\u00e9s\u00e9lectionn\u00e9es, entrez celles-ci (une par ligne) ci-bas. Pour les s\u00e9lections de pages, utilisez les num\u00e9ros d'ID des pages."
+        },
+        "d48cd2cb0f5c1d209800b28e019eb574": {
+            "text": "Cette(s) valeurs(s) optionnelles par d\u00e9faut sont disponibles parce que vous avez coch\u00e9 la case \"requis\" ci-haut."
+        },
+        "3a4accfa68ff7300f67ad7d89e07770e": {
+            "text": "Entrez les options qui peuvent \u00eatre s\u00e9lectionn\u00e9es, une par ligne."
+        },
+        "6cdf2b7c6a202509ddad22ed4e6d1c3d": {
+            "text": "Pour pr\u00e9c\u00e9der votre liste d'une option vide, entrez simplement le signe \"=\" comme premi\u00e8re option."
+        },
+        "378f6008c3dc6eb2be984683df372592": {
+            "text": "Pour rendre une option s\u00e9lectionn\u00e9e, pr\u00e9c\u00e9dez la par le signe plus. Exemple : +Mon option"
+        },
+        "75d2fefda1196dd14f506b0273ebed38": {
+            "text": "Pour garder s\u00e9par\u00e9es la valeur et l'\u00e9tiquette, s\u00e9parez-les par le signe \u00e9gal. Exemple : valeur=Mon option"
+        },
+        "663f303f44a9a25504e3c434fc37b34d": {
+            "text": "Pour cr\u00e9er un optgroup (groupe d'option), ins\u00e9rer une indentation de dans le groupe de 3 espaces ou plus."
+        },
+        "eed6fbc4de3755e7189b1461a4844bea": {
+            "text": "S\u00e9lection d'une valeur unique \u00e0 l'aide d'un menu d\u00e9roulant"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "S\u00e9lection"
+        },
+        "dae8ace18bdcbcc6ae5aece263e14fe8": {
+            "text": "="
+        },
+        "7c63f89ebf4832b00f3e7365c794b642": {
+            "text": "Pour avoir une ou plusieurs valeurs pr\u00e9s\u00e9lectionn\u00e9es, entrez-les (une par ligne) ci-dessous."
+        },
+        "032f6def0f9076885bcd8366ce324178": {
+            "text": "Pour avoir une valeur pr\u00e9s\u00e9lectionn\u00e9e, entrez-la ci-dessous."
+        },
+        "31ce3cdcd67850870b616f75b555bbc5": {
+            "text": "Valeur par d\u00e9faut"
+        },
+        "d1fd1babab2eaee3f04bcbc5278193d2": {
+            "text": "Pour les s\u00e9lections de pages, utilisez les num\u00e9ros d'ID des pages."
+        },
+        "5c6d4a4ac74797a290100dc74f6cd79d": {
+            "text": "IMPORTANT : La valeur par d\u00e9faut est utilis\u00e9e seulement si le champ est requis (voir la case \"requis\" sur cette page)"
+        },
+        "be1ae5e510797cd29556ba58e16bb3cd": {
+            "text": "Pour utiliser les options d'\u00e9tiquettes multi-lingues, veuillez lire les instructions dessous ce champ."
+        },
+        "e1d42070d11f4e125dd41933a7931336": {
+            "text": "Instructions :"
+        },
+        "c3a5b7cc9aad41a355971c9da775b523": {
+            "text": "D\u00e9clarer une option par ligne."
+        },
+        "318d7ecad4ade4ae80008273a964b97d": {
+            "text": "Instructions multi-lingue :"
+        },
+        "f79f891c4cdcad35f5c97b6d5abf6338": {
+            "text": "Il est recommand\u00e9 d'utiliser `value=label`, o\u00f9 `value`est la m\u00eame selon toutes les langues et `label` est traduit."
+        },
+        "276062e72d8dad493a3c12ee48129c09": {
+            "text": "Premi\u00e8rement, d\u00e9finissez les options de la langue par d\u00e9faut, et ensuite copiez\/collez dans d'autres langues et traduisez les \u00e9tiquettes."
+        },
+        "1de150b2c32ea78f720ed5680ede3e36": {
+            "text": "Les options s\u00e9lectionn\u00e9es et les groupes d'option sont d\u00e9finis par la langue par d\u00e9faut, les autres entr\u00e9es sont uniquement pour la traduction des \u00e9tiquettes."
+        },
+        "6fad098a8ac595a164cf68a53d2669ec": {
+            "text": "Les \u00e9tiquettes qui ne sont pas traduisibles h\u00e9ritent de l'\u00e9tiquette de la langue par d\u00e9faut."
+        }
+    }
+}
